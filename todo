@@ -1,0 +1,9 @@
+- Usuários
+  [x] Cadastro
+  [x] Entrar no sistema com token e refresh token
+  [x] Pegar os dados do usuario logado
+
+- Arena
+  [x] Cadastro de arena
+  [x] Listagem das arenas com paginação
+  [] Editar arena
